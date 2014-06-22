@@ -2,6 +2,7 @@ OTPython
 ========
 
 -- A fast and lightweight Gilbert Vernam's One Time Pad cipher implementation in Python --
+(For more information on Vernam's One Time Pad: http://en.wikipedia.org/wiki/One-time_pad)
 
 
 
