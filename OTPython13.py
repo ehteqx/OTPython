@@ -4,7 +4,7 @@
 from sys import *
 
 intro = """
-==========================================================
+====================================================================================================================
 ### OTPython v. 1.3 ASCII ###
 -- A fast and lightweight Gilbert Vernam's One Time Pad cipher implementation in Python --
 
@@ -15,7 +15,7 @@ Code written in Python with Sublime Text 3
 
 (C)2014 by EMANUELE BALLARIN - All rights reserved. (e-mail: ehteqx@gmail.com)
 
-==========================================================
+====================================================================================================================
 
 """
 
