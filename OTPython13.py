@@ -19,6 +19,9 @@ Code written in Python with Sublime Text 3
 
 """
 
+print(intro)
+
+
 module_length = 93
 
 print('Specify the path (absolute or relative) of the text file that you want to encrypt/decrypt...')
