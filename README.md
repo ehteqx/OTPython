@@ -1,8 +1,11 @@
 OTPython
 ========
 
-"OTPython" Project - Official GitHub Repository
+-- A fast and lightweight Gilbert Vernam's One Time Pad cipher implementation in Python --
 
+
+
+"OTPython" Project - Official GitHub Repository
 
 LICENSE:
 © 2014 Emanuele Ballarin - All rights reserved.
