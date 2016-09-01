@@ -101,7 +101,6 @@ revdict = {}
 for dictval, val in dictionary.iteritems():
 	revdict[val] = dictval
 
-
 if action == 'e':
 	try:
 		encrypt(srcpath,keypath)
